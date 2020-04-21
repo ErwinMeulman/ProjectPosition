@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command ProjectPosition</Text>
+    <Description>Some description for ProjectPosition</Description>
+    <Assembly>ProjectPosition.dll</Assembly>
+    <FullClassName>ProjectPosition2.Command</FullClassName>
+    <ClientId>D6AB4C37-777C-4868-A489-2D13FD2ADDA2</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
